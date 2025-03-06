@@ -1063,7 +1063,7 @@
         <mxCell id="LN25aqX4ywbVT8jfD-Li-23" value="派工单税号" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="LN25aqX4ywbVT8jfD-Li-1">
           <mxGeometry x="202" y="188" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="LN25aqX4ywbVT8jfD-Li-24" value="工单编号" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="LN25aqX4ywbVT8jfD-Li-1">
+        <mxCell id="LN25aqX4ywbVT8jfD-Li-24" value="id" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="LN25aqX4ywbVT8jfD-Li-1">
           <mxGeometry x="21" y="30" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LN25aqX4ywbVT8jfD-Li-25" value="客户名称" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="LN25aqX4ywbVT8jfD-Li-1">
