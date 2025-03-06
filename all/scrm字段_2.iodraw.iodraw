@@ -1018,12 +1018,6 @@
         <mxCell id="LN25aqX4ywbVT8jfD-Li-8" value="字段类型" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="-5520" y="-2240" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="LN25aqX4ywbVT8jfD-Li-9" value="工单状态" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-5789" y="-2208" width="80" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="LN25aqX4ywbVT8jfD-Li-10" value="关联联系人" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-5699" y="-2208" width="80" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="LN25aqX4ywbVT8jfD-Li-11" value="工单模板" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="-5609" y="-2208" width="80" height="20" as="geometry" />
         </mxCell>
