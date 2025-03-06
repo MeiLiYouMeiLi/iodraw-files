@@ -1193,7 +1193,10 @@
           <mxGeometry x="-5960" y="-2120" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="PnQ_szWt3dN9J6L2rcA0-38" value="员工状态" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-5950" y="-2110" width="80" height="20" as="geometry" />
+          <mxGeometry x="-5870" y="-2120" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PnQ_szWt3dN9J6L2rcA0-39" value="员工状态" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-5779" y="-2120" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
