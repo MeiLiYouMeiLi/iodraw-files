@@ -1031,12 +1031,12 @@
           <mxGeometry x="201" y="125" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="9dn3FcXOTqF1YE6Ss3px-17" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-5800" y="-2310" width="390" height="180" as="geometry" />
+          <mxGeometry x="-5810" y="-2080" width="390" height="180" as="geometry" />
         </mxCell>
         <mxCell id="9dn3FcXOTqF1YE6Ss3px-18" value="" style="rounded=1;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="9dn3FcXOTqF1YE6Ss3px-17">
           <mxGeometry width="390" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="9dn3FcXOTqF1YE6Ss3px-19" value="客户设置主表" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFCC;" vertex="1" parent="9dn3FcXOTqF1YE6Ss3px-17">
+        <mxCell id="9dn3FcXOTqF1YE6Ss3px-19" value="跟进状态主表" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFCC;" vertex="1" parent="9dn3FcXOTqF1YE6Ss3px-17">
           <mxGeometry x="132.5" y="30" width="125" height="20" as="geometry" />
         </mxCell>
         <mxCell id="9dn3FcXOTqF1YE6Ss3px-20" value="联系人字段" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="9dn3FcXOTqF1YE6Ss3px-17">
