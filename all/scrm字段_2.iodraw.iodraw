@@ -1135,8 +1135,8 @@
         <mxCell id="PnQ_szWt3dN9J6L2rcA0-4" value="评分阈值" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="PnQ_szWt3dN9J6L2rcA0-1">
           <mxGeometry x="20" y="80" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="PnQ_szWt3dN9J6L2rcA0-5" value="是否启用" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="PnQ_szWt3dN9J6L2rcA0-1">
-          <mxGeometry x="110" y="80" width="80" height="20" as="geometry" />
+        <mxCell id="PnQ_szWt3dN9J6L2rcA0-5" value="是否启用联系人新增共享人通知" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="PnQ_szWt3dN9J6L2rcA0-1">
+          <mxGeometry x="110" y="80" width="260" height="20" as="geometry" />
         </mxCell>
         <mxCell id="PnQ_szWt3dN9J6L2rcA0-6" value="id" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="PnQ_szWt3dN9J6L2rcA0-1">
           <mxGeometry x="21" y="50" width="80" height="20" as="geometry" />
