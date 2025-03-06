@@ -1072,7 +1072,7 @@
         <mxCell id="9dn3FcXOTqF1YE6Ss3px-31" value="放弃原因主表" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFCC;" vertex="1" parent="9dn3FcXOTqF1YE6Ss3px-29">
           <mxGeometry x="132.5" y="30" width="125" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="9dn3FcXOTqF1YE6Ss3px-32" value="跟进状态" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="9dn3FcXOTqF1YE6Ss3px-29">
+        <mxCell id="9dn3FcXOTqF1YE6Ss3px-32" value="放弃原因" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="9dn3FcXOTqF1YE6Ss3px-29">
           <mxGeometry x="20" y="80" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="9dn3FcXOTqF1YE6Ss3px-33" value="是否启用" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="9dn3FcXOTqF1YE6Ss3px-29">
@@ -1102,7 +1102,7 @@
         <mxCell id="9dn3FcXOTqF1YE6Ss3px-42" value="删除原因主表" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFCC;" vertex="1" parent="9dn3FcXOTqF1YE6Ss3px-40">
           <mxGeometry x="132.5" y="30" width="125" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="9dn3FcXOTqF1YE6Ss3px-43" value="跟进状态" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="9dn3FcXOTqF1YE6Ss3px-40">
+        <mxCell id="9dn3FcXOTqF1YE6Ss3px-43" value="&lt;table style=&quot;border-collapse: collapse; width: 101.42pt;&quot; height=&quot;24&quot; width=&quot;169&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; border=&quot;0&quot;&gt;&lt;colgroup&gt;&lt;col style=&quot;width: 101.4pt;&quot; width=&quot;169&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr style=&quot;height: 14.4pt;&quot; height=&quot;24&quot;&gt;&lt;td style=&quot;height: 14.4pt; width: 101.4pt;&quot; width=&quot;169&quot; height=&quot;24&quot; class=&quot;et3&quot;&gt;删除原因&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="9dn3FcXOTqF1YE6Ss3px-40">
           <mxGeometry x="20" y="80" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="9dn3FcXOTqF1YE6Ss3px-44" value="是否启用" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="9dn3FcXOTqF1YE6Ss3px-40">
