@@ -1154,7 +1154,7 @@
           <mxGeometry x="201" y="125" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="PnQ_szWt3dN9J6L2rcA0-12" value="" style="rounded=1;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-6070" y="-2280" width="390" height="250" as="geometry" />
+          <mxGeometry x="-6070" y="-2295" width="390" height="210" as="geometry" />
         </mxCell>
         <mxCell id="PnQ_szWt3dN9J6L2rcA0-13" value="员工列表主表" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFCC;" vertex="1" parent="1">
           <mxGeometry x="-5937.5" y="-2250" width="125" height="20" as="geometry" />
