@@ -990,12 +990,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="kJ0au9_HOAqUC-XLFyEM" name="配置中心">
-    <mxGraphModel dx="8290" dy="3034" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="7322" dy="3031" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="LN25aqX4ywbVT8jfD-Li-1" value="" style="group;fillColor=#FFFFFF;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-6190" y="-2280" width="390" height="323" as="geometry" />
+          <mxGeometry x="-5810" y="-2300" width="390" height="323" as="geometry" />
         </mxCell>
         <mxCell id="LN25aqX4ywbVT8jfD-Li-2" value="关注人" style="group;fillColor=#FFFFFF;container=0;" vertex="1" connectable="0" parent="LN25aqX4ywbVT8jfD-Li-1">
           <mxGeometry width="390" height="230" as="geometry" />
