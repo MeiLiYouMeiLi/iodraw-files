@@ -1165,10 +1165,10 @@
         <mxCell id="PnQ_szWt3dN9J6L2rcA0-14" value="姓名" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="PnQ_szWt3dN9J6L2rcA0-11">
           <mxGeometry x="20" y="80" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="PnQ_szWt3dN9J6L2rcA0-15" value="是否启用" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="PnQ_szWt3dN9J6L2rcA0-11">
+        <mxCell id="PnQ_szWt3dN9J6L2rcA0-15" value="所属部门" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="PnQ_szWt3dN9J6L2rcA0-11">
           <mxGeometry x="110" y="80" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="PnQ_szWt3dN9J6L2rcA0-16" value="是否自动变更" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="PnQ_szWt3dN9J6L2rcA0-11">
+        <mxCell id="PnQ_szWt3dN9J6L2rcA0-16" value="注册手机号" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="PnQ_szWt3dN9J6L2rcA0-11">
           <mxGeometry x="200" y="80" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="PnQ_szWt3dN9J6L2rcA0-17" value="id" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="PnQ_szWt3dN9J6L2rcA0-11">
