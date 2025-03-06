@@ -1124,12 +1124,12 @@
           <mxGeometry x="201" y="125" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="PnQ_szWt3dN9J6L2rcA0-1" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-6050" y="-2300" width="390" height="180" as="geometry" />
+          <mxGeometry x="-6120" y="-2300" width="390" height="180" as="geometry" />
         </mxCell>
         <mxCell id="PnQ_szWt3dN9J6L2rcA0-2" value="" style="rounded=1;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="PnQ_szWt3dN9J6L2rcA0-1">
           <mxGeometry width="390" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="PnQ_szWt3dN9J6L2rcA0-3" value="删除原因主表" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFCC;" vertex="1" parent="PnQ_szWt3dN9J6L2rcA0-1">
+        <mxCell id="PnQ_szWt3dN9J6L2rcA0-3" value="消息设置配置表" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFCC;" vertex="1" parent="PnQ_szWt3dN9J6L2rcA0-1">
           <mxGeometry x="132.5" y="30" width="125" height="20" as="geometry" />
         </mxCell>
         <mxCell id="PnQ_szWt3dN9J6L2rcA0-4" value="&lt;table style=&quot;border-collapse: collapse; width: 101.42pt;&quot; height=&quot;24&quot; width=&quot;169&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; border=&quot;0&quot;&gt;&lt;colgroup&gt;&lt;col style=&quot;width: 101.4pt;&quot; width=&quot;169&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr style=&quot;height: 14.4pt;&quot; height=&quot;24&quot;&gt;&lt;td style=&quot;height: 14.4pt; width: 101.4pt;&quot; width=&quot;169&quot; height=&quot;24&quot; class=&quot;et3&quot;&gt;删除原因&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="PnQ_szWt3dN9J6L2rcA0-1">
