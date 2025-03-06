@@ -1189,6 +1189,42 @@
         <mxCell id="PnQ_szWt3dN9J6L2rcA0-22" value="员工分组" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="PnQ_szWt3dN9J6L2rcA0-11">
           <mxGeometry x="291" y="80" width="80" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="PnQ_szWt3dN9J6L2rcA0-23" value="性别" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-6060" y="-2270" width="390" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="PnQ_szWt3dN9J6L2rcA0-24" value="" style="rounded=1;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="PnQ_szWt3dN9J6L2rcA0-23">
+          <mxGeometry width="390" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="PnQ_szWt3dN9J6L2rcA0-25" value="员工列表主表" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFCC;" vertex="1" parent="PnQ_szWt3dN9J6L2rcA0-23">
+          <mxGeometry x="132.5" y="30" width="125" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PnQ_szWt3dN9J6L2rcA0-26" value="姓名" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="PnQ_szWt3dN9J6L2rcA0-23">
+          <mxGeometry x="20" y="80" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PnQ_szWt3dN9J6L2rcA0-27" value="所属部门" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="PnQ_szWt3dN9J6L2rcA0-23">
+          <mxGeometry x="110" y="80" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PnQ_szWt3dN9J6L2rcA0-28" value="注册手机号" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="PnQ_szWt3dN9J6L2rcA0-23">
+          <mxGeometry x="200" y="80" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PnQ_szWt3dN9J6L2rcA0-29" value="id" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="PnQ_szWt3dN9J6L2rcA0-23">
+          <mxGeometry x="21" y="50" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PnQ_szWt3dN9J6L2rcA0-30" value="开启会话存档内容" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="PnQ_szWt3dN9J6L2rcA0-23">
+          <mxGeometry x="111" y="125" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PnQ_szWt3dN9J6L2rcA0-31" value="启用SCRM系统" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="PnQ_szWt3dN9J6L2rcA0-23">
+          <mxGeometry x="21" y="125" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PnQ_szWt3dN9J6L2rcA0-32" value="性别" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="PnQ_szWt3dN9J6L2rcA0-23">
+          <mxGeometry x="291" y="125" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PnQ_szWt3dN9J6L2rcA0-33" value="角色" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="PnQ_szWt3dN9J6L2rcA0-23">
+          <mxGeometry x="201" y="125" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PnQ_szWt3dN9J6L2rcA0-34" value="员工分组" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="PnQ_szWt3dN9J6L2rcA0-23">
+          <mxGeometry x="291" y="80" width="80" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
