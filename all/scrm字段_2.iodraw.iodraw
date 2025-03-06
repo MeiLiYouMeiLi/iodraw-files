@@ -1001,7 +1001,7 @@
           <mxGeometry x="-5810" y="-2300" width="390" height="230" as="geometry" />
         </mxCell>
         <mxCell id="LN25aqX4ywbVT8jfD-Li-3" value="" style="rounded=1;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-5810" y="-2320" width="390" height="323" as="geometry" />
+          <mxGeometry x="-5860" y="-2010" width="390" height="323" as="geometry" />
         </mxCell>
         <mxCell id="LN25aqX4ywbVT8jfD-Li-4" value="客户设置主表" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFCC;" vertex="1" parent="1">
           <mxGeometry x="-5677.5" y="-2290" width="125" height="20" as="geometry" />
@@ -1017,12 +1017,6 @@
         </mxCell>
         <mxCell id="LN25aqX4ywbVT8jfD-Li-8" value="字段类型" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="-5520" y="-2240" width="80" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="LN25aqX4ywbVT8jfD-Li-11" value="工单模板" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-5609" y="-2208" width="80" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="LN25aqX4ywbVT8jfD-Li-12" value="当前节点时效" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-5519" y="-2208" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LN25aqX4ywbVT8jfD-Li-24" value="id" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="-5789" y="-2270" width="80" height="20" as="geometry" />
