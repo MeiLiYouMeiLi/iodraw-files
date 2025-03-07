@@ -1022,7 +1022,7 @@
         <mxCell id="sxtMVS0xfhWmaEa6pbwK-13" value="" style="rounded=1;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="sxtMVS0xfhWmaEa6pbwK-12">
           <mxGeometry width="387" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="sxtMVS0xfhWmaEa6pbwK-14" value="工单自定义字段配置表" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFCC;" vertex="1" parent="sxtMVS0xfhWmaEa6pbwK-12">
+        <mxCell id="sxtMVS0xfhWmaEa6pbwK-14" value="工单模板高级配置表" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFCC;" vertex="1" parent="sxtMVS0xfhWmaEa6pbwK-12">
           <mxGeometry x="131" y="10" width="125" height="20" as="geometry" />
         </mxCell>
         <mxCell id="sxtMVS0xfhWmaEa6pbwK-15" value="字段名称" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="sxtMVS0xfhWmaEa6pbwK-12">
