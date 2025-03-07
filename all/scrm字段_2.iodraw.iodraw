@@ -1313,7 +1313,7 @@
           <mxGeometry x="-6040" y="-1800" width="390" height="170" as="geometry" />
         </mxCell>
         <mxCell id="pJkXwUEhGOAJhteFrj2J-44" value="" style="rounded=1;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-6080" y="-1775" width="390" height="120" as="geometry" />
+          <mxGeometry x="-6000" y="-1780" width="355" height="120" as="geometry" />
         </mxCell>
         <mxCell id="pJkXwUEhGOAJhteFrj2J-45" value="角色员工关联表" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="-5907.5" y="-1770" width="125" height="20" as="geometry" />
