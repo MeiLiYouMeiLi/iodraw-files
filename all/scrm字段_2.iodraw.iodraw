@@ -1025,11 +1025,8 @@
         <mxCell id="sxtMVS0xfhWmaEa6pbwK-14" value="工单模板高级配置表-权限人员表" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFCC;" vertex="1" parent="sxtMVS0xfhWmaEa6pbwK-12">
           <mxGeometry x="131" y="10" width="125" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="sxtMVS0xfhWmaEa6pbwK-15" value="字段名称" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="sxtMVS0xfhWmaEa6pbwK-12">
+        <mxCell id="sxtMVS0xfhWmaEa6pbwK-15" value="人员id" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="sxtMVS0xfhWmaEa6pbwK-12">
           <mxGeometry x="100" y="50" width="80" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="sxtMVS0xfhWmaEa6pbwK-16" value="字段类型" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="sxtMVS0xfhWmaEa6pbwK-12">
-          <mxGeometry x="190" y="50" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="sxtMVS0xfhWmaEa6pbwK-17" value="id" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="sxtMVS0xfhWmaEa6pbwK-12">
           <mxGeometry x="10" y="50" width="80" height="20" as="geometry" />
