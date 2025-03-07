@@ -949,7 +949,7 @@
         <mxCell id="a04SqiWGZQUf6RnMkxAa-82" value="" style="rounded=1;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="-6348" y="-1740" width="280" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="a04SqiWGZQUf6RnMkxAa-83" value="工单模板配置表" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFCC;" parent="1" vertex="1">
+        <mxCell id="a04SqiWGZQUf6RnMkxAa-83" value="工单模板页面配置表" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFCC;" parent="1" vertex="1">
           <mxGeometry x="-6270.5" y="-1730" width="125" height="20" as="geometry" />
         </mxCell>
         <mxCell id="a04SqiWGZQUf6RnMkxAa-84" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="1" source="a04SqiWGZQUf6RnMkxAa-85" target="a04SqiWGZQUf6RnMkxAa-77" edge="1">
