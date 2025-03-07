@@ -1252,7 +1252,7 @@
         <mxCell id="pJkXwUEhGOAJhteFrj2J-16" value="员工分组表" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFCC;" vertex="1" parent="pJkXwUEhGOAJhteFrj2J-14">
           <mxGeometry x="132.5" y="30" width="125" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="pJkXwUEhGOAJhteFrj2J-17" value="部门名称" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="pJkXwUEhGOAJhteFrj2J-14">
+        <mxCell id="pJkXwUEhGOAJhteFrj2J-17" value="分组名称" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="pJkXwUEhGOAJhteFrj2J-14">
           <mxGeometry x="20" y="80" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="pJkXwUEhGOAJhteFrj2J-18" value="是否启用" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="pJkXwUEhGOAJhteFrj2J-14">
