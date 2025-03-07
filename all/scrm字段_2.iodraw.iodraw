@@ -1023,7 +1023,7 @@
           <mxGeometry width="387" height="120" as="geometry" />
         </mxCell>
         <mxCell id="sxtMVS0xfhWmaEa6pbwK-14" value="工单模板高级配置表-权限人员表" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFCC;" vertex="1" parent="sxtMVS0xfhWmaEa6pbwK-12">
-          <mxGeometry x="131" y="10" width="125" height="20" as="geometry" />
+          <mxGeometry x="131" y="10" width="199" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sxtMVS0xfhWmaEa6pbwK-15" value="人员id" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="sxtMVS0xfhWmaEa6pbwK-12">
           <mxGeometry x="100" y="50" width="80" height="20" as="geometry" />
@@ -1039,6 +1039,9 @@
         </mxCell>
         <mxCell id="sxtMVS0xfhWmaEa6pbwK-21" value="修改时间" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="sxtMVS0xfhWmaEa6pbwK-12">
           <mxGeometry x="280" y="80" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sxtMVS0xfhWmaEa6pbwK-22" value="修改人" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="sxtMVS0xfhWmaEa6pbwK-12">
+          <mxGeometry x="190" y="80" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
