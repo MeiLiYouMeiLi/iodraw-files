@@ -995,7 +995,7 @@
         <mxCell id="sxtMVS0xfhWmaEa6pbwK-3" value="模板id" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="-6248" y="-1510" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="sxtMVS0xfhWmaEa6pbwK-4" value="字段id" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="sxtMVS0xfhWmaEa6pbwK-4" value="流转类型" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="-6158" y="-1510" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="sxtMVS0xfhWmaEa6pbwK-5" value="id" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="1">
