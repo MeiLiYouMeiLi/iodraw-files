@@ -1234,7 +1234,7 @@
         <mxCell id="PnQ_szWt3dN9J6L2rcA0-51" value="角色" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" parent="PnQ_szWt3dN9J6L2rcA0-41" vertex="1">
           <mxGeometry x="201" y="125" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="PnQ_szWt3dN9J6L2rcA0-52" value="员工分组" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" parent="PnQ_szWt3dN9J6L2rcA0-41" vertex="1">
+        <mxCell id="PnQ_szWt3dN9J6L2rcA0-52" value="父级部门id" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" parent="PnQ_szWt3dN9J6L2rcA0-41" vertex="1">
           <mxGeometry x="291" y="80" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="PnQ_szWt3dN9J6L2rcA0-53" value="员工状态" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" parent="PnQ_szWt3dN9J6L2rcA0-41" vertex="1">
