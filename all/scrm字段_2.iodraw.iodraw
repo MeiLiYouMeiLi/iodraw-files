@@ -1309,20 +1309,23 @@
         <mxCell id="pJkXwUEhGOAJhteFrj2J-40" value="修改人" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="pJkXwUEhGOAJhteFrj2J-42">
           <mxGeometry x="201" y="124" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="pJkXwUEhGOAJhteFrj2J-44" value="" style="rounded=1;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-5995" y="-1780" width="300" height="90" as="geometry" />
+        <mxCell id="pJkXwUEhGOAJhteFrj2J-56" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-6060" y="-1730" width="300" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="pJkXwUEhGOAJhteFrj2J-45" value="角色员工关联表" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-5907.5" y="-1770" width="125" height="20" as="geometry" />
+        <mxCell id="pJkXwUEhGOAJhteFrj2J-44" value="" style="rounded=1;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="pJkXwUEhGOAJhteFrj2J-56">
+          <mxGeometry width="300" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="pJkXwUEhGOAJhteFrj2J-46" value="员工id" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-5880" y="-1725" width="80" height="20" as="geometry" />
+        <mxCell id="pJkXwUEhGOAJhteFrj2J-45" value="角色员工关联表" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="pJkXwUEhGOAJhteFrj2J-56">
+          <mxGeometry x="87.5" y="10" width="125" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="pJkXwUEhGOAJhteFrj2J-47" value="角色id" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-5789" y="-1725" width="80" height="20" as="geometry" />
+        <mxCell id="pJkXwUEhGOAJhteFrj2J-46" value="员工id" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="pJkXwUEhGOAJhteFrj2J-56">
+          <mxGeometry x="115" y="55" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="pJkXwUEhGOAJhteFrj2J-49" value="id" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-5970" y="-1725" width="80" height="20" as="geometry" />
+        <mxCell id="pJkXwUEhGOAJhteFrj2J-47" value="角色id" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="pJkXwUEhGOAJhteFrj2J-56">
+          <mxGeometry x="206" y="55" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pJkXwUEhGOAJhteFrj2J-49" value="id" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="pJkXwUEhGOAJhteFrj2J-56">
+          <mxGeometry x="25" y="55" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
