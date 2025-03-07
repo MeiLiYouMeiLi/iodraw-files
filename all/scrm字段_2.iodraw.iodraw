@@ -1739,9 +1739,9 @@
           <mxGeometry width="390" height="170" as="geometry" />
         </mxCell>
         <mxCell id="Qh6KIk2yQqFLPJrow_n9-93" value="&lt;span style=&quot;color: rgb(44, 64, 104); font-family: &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial, sans-serif; font-size: 14px; text-align: right; background-color: rgb(248, 249, 250);&quot;&gt;质检结果提醒状态表&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFCC;" vertex="1" parent="Qh6KIk2yQqFLPJrow_n9-91">
-          <mxGeometry x="132.5" y="30" width="125" height="20" as="geometry" />
+          <mxGeometry x="132.5" y="30" width="137.5" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Qh6KIk2yQqFLPJrow_n9-94" value="员工id" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="Qh6KIk2yQqFLPJrow_n9-91">
+        <mxCell id="Qh6KIk2yQqFLPJrow_n9-94" value="是否开启" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="Qh6KIk2yQqFLPJrow_n9-91">
           <mxGeometry x="20" y="80" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Qh6KIk2yQqFLPJrow_n9-95" value="id" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="Qh6KIk2yQqFLPJrow_n9-91">
