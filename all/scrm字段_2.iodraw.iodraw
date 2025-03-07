@@ -1429,7 +1429,7 @@
         <mxCell id="pJkXwUEhGOAJhteFrj2J-93" value="" style="rounded=1;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="pJkXwUEhGOAJhteFrj2J-92">
           <mxGeometry width="390" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="pJkXwUEhGOAJhteFrj2J-94" value="企业标签主表" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFCC;" vertex="1" parent="pJkXwUEhGOAJhteFrj2J-92">
+        <mxCell id="pJkXwUEhGOAJhteFrj2J-94" value="行为标签主表" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFCC;" vertex="1" parent="pJkXwUEhGOAJhteFrj2J-92">
           <mxGeometry x="132.5" y="30" width="125" height="20" as="geometry" />
         </mxCell>
         <mxCell id="pJkXwUEhGOAJhteFrj2J-95" value="标签名称" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="pJkXwUEhGOAJhteFrj2J-92">
