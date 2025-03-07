@@ -2384,8 +2384,8 @@
         <mxCell id="wxVMlo5JmYjq6WEpDioe-42" value="修改人" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="wxVMlo5JmYjq6WEpDioe-31">
           <mxGeometry x="201" y="141" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="wxVMlo5JmYjq6WEpDioe-43" value="任务对象" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="wxVMlo5JmYjq6WEpDioe-31">
-          <mxGeometry x="300" y="80" width="80" height="20" as="geometry" />
+        <mxCell id="wxVMlo5JmYjq6WEpDioe-43" value="截止时间" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="wxVMlo5JmYjq6WEpDioe-31">
+          <mxGeometry x="291" y="80" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="wxVMlo5JmYjq6WEpDioe-44" value="完成时间" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="wxVMlo5JmYjq6WEpDioe-31">
           <mxGeometry x="201" y="80" width="80" height="20" as="geometry" />
