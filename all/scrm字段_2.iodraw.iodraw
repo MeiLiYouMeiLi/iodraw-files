@@ -2351,12 +2351,6 @@
         <mxCell id="wxVMlo5JmYjq6WEpDioe-14" value="素材" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="-6595" y="-2048" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="wxVMlo5JmYjq6WEpDioe-15" value="修改时间" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-6325" y="-2048" width="80" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="wxVMlo5JmYjq6WEpDioe-16" value="修改人" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-6415" y="-2048" width="80" height="20" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
