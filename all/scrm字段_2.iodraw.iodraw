@@ -1651,6 +1651,9 @@
         <mxCell id="Qh6KIk2yQqFLPJrow_n9-57" value="修改人" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="Qh6KIk2yQqFLPJrow_n9-49">
           <mxGeometry x="201" y="124" width="80" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="Qh6KIk2yQqFLPJrow_n9-68" value="是否签到距离限制" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="Qh6KIk2yQqFLPJrow_n9-49">
+          <mxGeometry x="201" y="80" width="169" height="20" as="geometry" />
+        </mxCell>
         <mxCell id="Qh6KIk2yQqFLPJrow_n9-58" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-5110" y="-1490" width="390" height="170" as="geometry" />
         </mxCell>
