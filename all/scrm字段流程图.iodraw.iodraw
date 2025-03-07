@@ -2651,32 +2651,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="MeeB-vB3RWHkrIJc4Mwc-1" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="380" y="620" as="sourcePoint" />
-            <mxPoint x="1050" y="685" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="140" y="635" />
-              <mxPoint x="470" y="685" />
-              <mxPoint x="620" y="615" />
-              <mxPoint x="640" y="735" />
-              <mxPoint x="790" y="645" />
-              <mxPoint x="660" y="615" />
-              <mxPoint x="200" y="715" />
-              <mxPoint x="810" y="605" />
-              <mxPoint x="420" y="645" />
-              <mxPoint x="770" y="625" />
-              <mxPoint x="360" y="680" />
-              <mxPoint x="430" y="725" />
-              <mxPoint x="90" y="585" />
-              <mxPoint x="610" y="755" />
-              <mxPoint x="290" y="615" />
-              <mxPoint x="1070" y="695" />
-              <mxPoint x="210" y="645" />
-              <mxPoint x="260" y="655" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
