@@ -2313,12 +2313,12 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="wxVMlo5JmYjq6WEpDioe-1" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-7199" y="-2300" width="390" height="180" as="geometry" />
+          <mxGeometry x="-6616" y="-2160" width="390" height="180" as="geometry" />
         </mxCell>
         <mxCell id="wxVMlo5JmYjq6WEpDioe-2" value="" style="rounded=1;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="wxVMlo5JmYjq6WEpDioe-1">
-          <mxGeometry width="390" height="180" as="geometry" />
+          <mxGeometry x="-124" width="390" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="wxVMlo5JmYjq6WEpDioe-3" value="客户设置主表" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFCC;" vertex="1" parent="wxVMlo5JmYjq6WEpDioe-1">
+        <mxCell id="wxVMlo5JmYjq6WEpDioe-3" value="日常任务主表" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFCC;" vertex="1" parent="wxVMlo5JmYjq6WEpDioe-1">
           <mxGeometry x="132.5" y="30" width="125" height="20" as="geometry" />
         </mxCell>
         <mxCell id="wxVMlo5JmYjq6WEpDioe-4" value="联系人字段" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="wxVMlo5JmYjq6WEpDioe-1">
