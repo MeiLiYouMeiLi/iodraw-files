@@ -1499,15 +1499,15 @@
           <mxGeometry x="291" y="80" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Qh6KIk2yQqFLPJrow_n9-1" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-5550" y="-2290" width="390" height="170" as="geometry" />
+          <mxGeometry x="-5110" y="-2300" width="390" height="170" as="geometry" />
         </mxCell>
         <mxCell id="Qh6KIk2yQqFLPJrow_n9-2" value="" style="rounded=1;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="Qh6KIk2yQqFLPJrow_n9-1">
           <mxGeometry width="390" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="Qh6KIk2yQqFLPJrow_n9-3" value="企业标签主表" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFCC;" vertex="1" parent="Qh6KIk2yQqFLPJrow_n9-1">
+        <mxCell id="Qh6KIk2yQqFLPJrow_n9-3" value="销售机会状态表" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFCC;" vertex="1" parent="Qh6KIk2yQqFLPJrow_n9-1">
           <mxGeometry x="132.5" y="30" width="125" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Qh6KIk2yQqFLPJrow_n9-4" value="标签名称" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="Qh6KIk2yQqFLPJrow_n9-1">
+        <mxCell id="Qh6KIk2yQqFLPJrow_n9-4" value="是否开启" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="Qh6KIk2yQqFLPJrow_n9-1">
           <mxGeometry x="20" y="80" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Qh6KIk2yQqFLPJrow_n9-5" value="是否启用" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="Qh6KIk2yQqFLPJrow_n9-1">
