@@ -1391,12 +1391,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pJkXwUEhGOAJhteFrj2J-79" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-6510" y="-1598" width="390" height="170" as="geometry" />
+          <mxGeometry x="-6520" y="-1410" width="390" height="170" as="geometry" />
         </mxCell>
         <mxCell id="pJkXwUEhGOAJhteFrj2J-80" value="" style="rounded=1;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="pJkXwUEhGOAJhteFrj2J-79">
           <mxGeometry width="390" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="pJkXwUEhGOAJhteFrj2J-81" value="菜单主表" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFCC;" vertex="1" parent="pJkXwUEhGOAJhteFrj2J-79">
+        <mxCell id="pJkXwUEhGOAJhteFrj2J-81" value="企业标签主表" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFCC;" vertex="1" parent="pJkXwUEhGOAJhteFrj2J-79">
           <mxGeometry x="132.5" y="30" width="125" height="20" as="geometry" />
         </mxCell>
         <mxCell id="pJkXwUEhGOAJhteFrj2J-82" value="菜单名称" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="pJkXwUEhGOAJhteFrj2J-79">
