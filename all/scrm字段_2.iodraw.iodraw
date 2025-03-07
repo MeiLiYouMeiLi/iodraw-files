@@ -2396,8 +2396,8 @@
         <mxCell id="wxVMlo5JmYjq6WEpDioe-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.85;entryY=0.85;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wxVMlo5JmYjq6WEpDioe-43" target="wxVMlo5JmYjq6WEpDioe-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wxVMlo5JmYjq6WEpDioe-47" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-6880" y="-1880" width="120" height="60" as="geometry" />
+        <mxCell id="wxVMlo5JmYjq6WEpDioe-47" value="未联系客户,重点关注联系人,销售机会" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-6920" y="-1920" width="400" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
