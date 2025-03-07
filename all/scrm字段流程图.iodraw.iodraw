@@ -2653,27 +2653,27 @@
         </mxCell>
         <mxCell id="MeeB-vB3RWHkrIJc4Mwc-1" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-250" y="580" as="sourcePoint" />
-            <mxPoint x="1060" y="640" as="targetPoint" />
+            <mxPoint x="-260" y="625" as="sourcePoint" />
+            <mxPoint x="1050" y="685" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="150" y="590" />
-              <mxPoint x="480" y="640" />
-              <mxPoint x="630" y="570" />
-              <mxPoint x="650" y="690" />
-              <mxPoint x="750" y="690" />
-              <mxPoint x="670" y="570" />
-              <mxPoint x="210" y="670" />
-              <mxPoint x="820" y="560" />
-              <mxPoint x="430" y="600" />
-              <mxPoint x="760" y="650" />
-              <mxPoint x="380" y="570" />
-              <mxPoint x="440" y="680" />
-              <mxPoint x="100" y="540" />
-              <mxPoint x="620" y="710" />
-              <mxPoint x="300" y="570" />
-              <mxPoint x="1080" y="650" />
-              <mxPoint x="220" y="600" />
-              <mxPoint x="270" y="610" />
+              <mxPoint x="140" y="635" />
+              <mxPoint x="470" y="685" />
+              <mxPoint x="620" y="615" />
+              <mxPoint x="640" y="735" />
+              <mxPoint x="790" y="645" />
+              <mxPoint x="660" y="615" />
+              <mxPoint x="200" y="715" />
+              <mxPoint x="810" y="605" />
+              <mxPoint x="420" y="645" />
+              <mxPoint x="770" y="625" />
+              <mxPoint x="370" y="615" />
+              <mxPoint x="430" y="725" />
+              <mxPoint x="90" y="585" />
+              <mxPoint x="610" y="755" />
+              <mxPoint x="290" y="615" />
+              <mxPoint x="1070" y="695" />
+              <mxPoint x="210" y="645" />
+              <mxPoint x="260" y="655" />
             </Array>
           </mxGeometry>
         </mxCell>
