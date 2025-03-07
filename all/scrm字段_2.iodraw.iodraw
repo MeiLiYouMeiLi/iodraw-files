@@ -1603,10 +1603,10 @@
         <mxCell id="Qh6KIk2yQqFLPJrow_n9-39" value="丢单原因主表" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFCC;" vertex="1" parent="Qh6KIk2yQqFLPJrow_n9-37">
           <mxGeometry x="132.5" y="30" width="125" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Qh6KIk2yQqFLPJrow_n9-40" value="字段描述" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="Qh6KIk2yQqFLPJrow_n9-37">
+        <mxCell id="Qh6KIk2yQqFLPJrow_n9-40" value="丢单原因" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="Qh6KIk2yQqFLPJrow_n9-37">
           <mxGeometry x="20" y="80" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Qh6KIk2yQqFLPJrow_n9-41" value="字段类型" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="Qh6KIk2yQqFLPJrow_n9-37">
+        <mxCell id="Qh6KIk2yQqFLPJrow_n9-41" value="是否启用" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="Qh6KIk2yQqFLPJrow_n9-37">
           <mxGeometry x="110" y="80" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Qh6KIk2yQqFLPJrow_n9-42" value="是否启用" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="Qh6KIk2yQqFLPJrow_n9-37">
@@ -1626,9 +1626,6 @@
         </mxCell>
         <mxCell id="Qh6KIk2yQqFLPJrow_n9-47" value="修改人" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="Qh6KIk2yQqFLPJrow_n9-37">
           <mxGeometry x="201" y="124" width="80" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="Qh6KIk2yQqFLPJrow_n9-48" value="是否必填" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="Qh6KIk2yQqFLPJrow_n9-37">
-          <mxGeometry x="291" y="80" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
