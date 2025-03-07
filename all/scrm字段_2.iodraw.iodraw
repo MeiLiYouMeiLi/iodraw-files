@@ -2360,7 +2360,7 @@
         <mxCell id="wxVMlo5JmYjq6WEpDioe-32" value="" style="rounded=1;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="wxVMlo5JmYjq6WEpDioe-31">
           <mxGeometry width="390" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="wxVMlo5JmYjq6WEpDioe-33" value="日常任务人员完成主表" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFCC;" vertex="1" parent="wxVMlo5JmYjq6WEpDioe-31">
+        <mxCell id="wxVMlo5JmYjq6WEpDioe-33" value="日常任务人员完成情况表" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFCC;" vertex="1" parent="wxVMlo5JmYjq6WEpDioe-31">
           <mxGeometry x="132.5" y="30" width="125" height="20" as="geometry" />
         </mxCell>
         <mxCell id="wxVMlo5JmYjq6WEpDioe-34" value="任务id" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="wxVMlo5JmYjq6WEpDioe-31">
@@ -2391,6 +2391,9 @@
           <mxGeometry x="201" y="80" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="wxVMlo5JmYjq6WEpDioe-45" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wxVMlo5JmYjq6WEpDioe-34" target="wxVMlo5JmYjq6WEpDioe-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wxVMlo5JmYjq6WEpDioe-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.85;entryY=0.85;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wxVMlo5JmYjq6WEpDioe-43" target="wxVMlo5JmYjq6WEpDioe-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
