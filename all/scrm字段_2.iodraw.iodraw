@@ -990,7 +990,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="kJ0au9_HOAqUC-XLFyEM" name="配置中心">
-    <mxGraphModel dx="8136" dy="3038" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="8183" dy="3038" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1310,7 +1310,7 @@
           <mxGeometry x="201" y="124" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="pJkXwUEhGOAJhteFrj2J-56" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-6060" y="-1798" width="300" height="90" as="geometry" />
+          <mxGeometry x="-6070" y="-1760" width="300" height="90" as="geometry" />
         </mxCell>
         <mxCell id="pJkXwUEhGOAJhteFrj2J-44" value="" style="rounded=1;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="pJkXwUEhGOAJhteFrj2J-56">
           <mxGeometry width="300" height="90" as="geometry" />
@@ -1331,7 +1331,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pJkXwUEhGOAJhteFrj2J-58" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-6060" y="-1690" width="300" height="90" as="geometry" />
+          <mxGeometry x="-6070" y="-1620" width="300" height="90" as="geometry" />
         </mxCell>
         <mxCell id="pJkXwUEhGOAJhteFrj2J-59" value="" style="rounded=1;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="pJkXwUEhGOAJhteFrj2J-58">
           <mxGeometry width="300" height="90" as="geometry" />
