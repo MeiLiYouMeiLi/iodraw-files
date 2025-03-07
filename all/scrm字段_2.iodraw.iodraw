@@ -1652,12 +1652,12 @@
           <mxGeometry x="201" y="124" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Qh6KIk2yQqFLPJrow_n9-58" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-5100" y="-1690" width="390" height="170" as="geometry" />
+          <mxGeometry x="-5110" y="-1490" width="390" height="170" as="geometry" />
         </mxCell>
         <mxCell id="Qh6KIk2yQqFLPJrow_n9-59" value="" style="rounded=1;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="Qh6KIk2yQqFLPJrow_n9-58">
           <mxGeometry width="390" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="Qh6KIk2yQqFLPJrow_n9-60" value="丢单原因主表" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFCC;" vertex="1" parent="Qh6KIk2yQqFLPJrow_n9-58">
+        <mxCell id="Qh6KIk2yQqFLPJrow_n9-60" value="其他设置-销售机会通知状态表" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFCC;" vertex="1" parent="Qh6KIk2yQqFLPJrow_n9-58">
           <mxGeometry x="132.5" y="30" width="125" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Qh6KIk2yQqFLPJrow_n9-61" value="丢单原因" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="Qh6KIk2yQqFLPJrow_n9-58">
