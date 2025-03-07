@@ -2361,7 +2361,7 @@
           <mxGeometry width="390" height="180" as="geometry" />
         </mxCell>
         <mxCell id="wxVMlo5JmYjq6WEpDioe-33" value="日常任务人员完成情况表" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFCC;" vertex="1" parent="wxVMlo5JmYjq6WEpDioe-31">
-          <mxGeometry x="132.5" y="30" width="125" height="20" as="geometry" />
+          <mxGeometry x="132.5" y="30" width="147.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="wxVMlo5JmYjq6WEpDioe-34" value="任务id" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="wxVMlo5JmYjq6WEpDioe-31">
           <mxGeometry x="20" y="80" width="80" height="20" as="geometry" />
