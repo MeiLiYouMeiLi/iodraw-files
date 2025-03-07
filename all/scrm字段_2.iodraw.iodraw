@@ -986,6 +986,36 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="sxtMVS0xfhWmaEa6pbwK-1" value="" style="rounded=1;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-6338" y="-1730" width="280" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="sxtMVS0xfhWmaEa6pbwK-2" value="工单模板页面配置表" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFCC;" vertex="1" parent="1">
+          <mxGeometry x="-6260.5" y="-1720" width="125" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sxtMVS0xfhWmaEa6pbwK-3" value="模板id" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-6238" y="-1680" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sxtMVS0xfhWmaEa6pbwK-4" value="字段id" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-6148" y="-1680" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sxtMVS0xfhWmaEa6pbwK-5" value="id" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-6328" y="-1680" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sxtMVS0xfhWmaEa6pbwK-6" value="创建时间" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-6238" y="-1650" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sxtMVS0xfhWmaEa6pbwK-7" value="创建人" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-6328" y="-1650" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sxtMVS0xfhWmaEa6pbwK-8" value="修改人" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-6148" y="-1650" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sxtMVS0xfhWmaEa6pbwK-9" value="修改时间" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-6328" y="-1620" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sxtMVS0xfhWmaEa6pbwK-10" value="排序" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-6238" y="-1620" width="80" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
