@@ -1720,7 +1720,7 @@
         <mxCell id="Qh6KIk2yQqFLPJrow_n9-82" value="质量检测结果提醒员工" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFCC;" vertex="1" parent="Qh6KIk2yQqFLPJrow_n9-80">
           <mxGeometry x="132.5" y="30" width="125" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Qh6KIk2yQqFLPJrow_n9-83" value="跟进类型名称" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="Qh6KIk2yQqFLPJrow_n9-80">
+        <mxCell id="Qh6KIk2yQqFLPJrow_n9-83" value="员工id" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="Qh6KIk2yQqFLPJrow_n9-80">
           <mxGeometry x="20" y="80" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Qh6KIk2yQqFLPJrow_n9-84" value="是否启用" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="Qh6KIk2yQqFLPJrow_n9-80">
