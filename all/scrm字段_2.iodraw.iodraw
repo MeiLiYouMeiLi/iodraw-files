@@ -1279,7 +1279,7 @@
         <mxCell id="pJkXwUEhGOAJhteFrj2J-29" value="" style="rounded=1;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="pJkXwUEhGOAJhteFrj2J-28">
           <mxGeometry width="390" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="pJkXwUEhGOAJhteFrj2J-30" value="部门主表" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFCC;" vertex="1" parent="pJkXwUEhGOAJhteFrj2J-28">
+        <mxCell id="pJkXwUEhGOAJhteFrj2J-30" value="角色权限主表" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFCC;" vertex="1" parent="pJkXwUEhGOAJhteFrj2J-28">
           <mxGeometry x="132.5" y="30" width="125" height="20" as="geometry" />
         </mxCell>
         <mxCell id="pJkXwUEhGOAJhteFrj2J-31" value="部门名称" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="pJkXwUEhGOAJhteFrj2J-28">
