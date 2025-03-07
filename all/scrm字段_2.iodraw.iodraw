@@ -1463,12 +1463,12 @@
           <mxGeometry x="291" y="80" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="pJkXwUEhGOAJhteFrj2J-117" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-6510" y="-1190" width="390" height="170" as="geometry" />
+          <mxGeometry x="-6520" y="-1000" width="390" height="170" as="geometry" />
         </mxCell>
         <mxCell id="pJkXwUEhGOAJhteFrj2J-118" value="" style="rounded=1;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="pJkXwUEhGOAJhteFrj2J-117">
           <mxGeometry width="390" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="pJkXwUEhGOAJhteFrj2J-119" value="行为标签主表" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFCC;" vertex="1" parent="pJkXwUEhGOAJhteFrj2J-117">
+        <mxCell id="pJkXwUEhGOAJhteFrj2J-119" value="群标签主表" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFCC;" vertex="1" parent="pJkXwUEhGOAJhteFrj2J-117">
           <mxGeometry x="132.5" y="30" width="125" height="20" as="geometry" />
         </mxCell>
         <mxCell id="pJkXwUEhGOAJhteFrj2J-120" value="标签名称" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="pJkXwUEhGOAJhteFrj2J-117">
