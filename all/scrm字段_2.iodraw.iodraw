@@ -1570,7 +1570,7 @@
         <mxCell id="Qh6KIk2yQqFLPJrow_n9-28" value="字段描述" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="Qh6KIk2yQqFLPJrow_n9-25">
           <mxGeometry x="20" y="80" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Qh6KIk2yQqFLPJrow_n9-29" value="名称" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="Qh6KIk2yQqFLPJrow_n9-25">
+        <mxCell id="Qh6KIk2yQqFLPJrow_n9-29" value="字段类型" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="Qh6KIk2yQqFLPJrow_n9-25">
           <mxGeometry x="110" y="80" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Qh6KIk2yQqFLPJrow_n9-30" value="是否启用" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="Qh6KIk2yQqFLPJrow_n9-25">
@@ -1590,6 +1590,9 @@
         </mxCell>
         <mxCell id="Qh6KIk2yQqFLPJrow_n9-35" value="修改人" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="Qh6KIk2yQqFLPJrow_n9-25">
           <mxGeometry x="201" y="124" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Qh6KIk2yQqFLPJrow_n9-36" value="是否启用" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="Qh6KIk2yQqFLPJrow_n9-25">
+          <mxGeometry x="291" y="80" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
