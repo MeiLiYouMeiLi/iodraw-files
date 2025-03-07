@@ -1331,12 +1331,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pJkXwUEhGOAJhteFrj2J-58" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-6050" y="-1788" width="300" height="90" as="geometry" />
+          <mxGeometry x="-6060" y="-1690" width="300" height="90" as="geometry" />
         </mxCell>
         <mxCell id="pJkXwUEhGOAJhteFrj2J-59" value="" style="rounded=1;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="pJkXwUEhGOAJhteFrj2J-58">
           <mxGeometry width="300" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="pJkXwUEhGOAJhteFrj2J-60" value="角色员工关联表" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="pJkXwUEhGOAJhteFrj2J-58">
+        <mxCell id="pJkXwUEhGOAJhteFrj2J-60" value="菜单权限关联表" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="pJkXwUEhGOAJhteFrj2J-58">
           <mxGeometry x="87.5" y="10" width="125" height="20" as="geometry" />
         </mxCell>
         <mxCell id="pJkXwUEhGOAJhteFrj2J-61" value="员工id" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="pJkXwUEhGOAJhteFrj2J-58">
