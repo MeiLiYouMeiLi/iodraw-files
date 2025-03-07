@@ -989,7 +989,7 @@
         <mxCell id="sxtMVS0xfhWmaEa6pbwK-1" value="" style="rounded=1;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="-6348" y="-1560" width="280" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="sxtMVS0xfhWmaEa6pbwK-2" value="工单模板页面配置表" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFCC;" vertex="1" parent="1">
+        <mxCell id="sxtMVS0xfhWmaEa6pbwK-2" value="工单模板流程配置表" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFCC;" vertex="1" parent="1">
           <mxGeometry x="-6270.5" y="-1550" width="125" height="20" as="geometry" />
         </mxCell>
         <mxCell id="sxtMVS0xfhWmaEa6pbwK-3" value="模板id" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="1">
