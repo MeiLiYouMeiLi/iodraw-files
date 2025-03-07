@@ -1339,7 +1339,7 @@
         <mxCell id="pJkXwUEhGOAJhteFrj2J-60" value="菜单权限关联表" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="pJkXwUEhGOAJhteFrj2J-58">
           <mxGeometry x="87.5" y="10" width="125" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="pJkXwUEhGOAJhteFrj2J-61" value="员工id" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="pJkXwUEhGOAJhteFrj2J-58">
+        <mxCell id="pJkXwUEhGOAJhteFrj2J-61" value="菜单id" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="pJkXwUEhGOAJhteFrj2J-58">
           <mxGeometry x="115" y="55" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="pJkXwUEhGOAJhteFrj2J-62" value="角色id" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="pJkXwUEhGOAJhteFrj2J-58">
@@ -1352,7 +1352,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pJkXwUEhGOAJhteFrj2J-66" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-6510" y="-1790" width="390" height="170" as="geometry" />
+          <mxGeometry x="-6520" y="-1610" width="390" height="170" as="geometry" />
         </mxCell>
         <mxCell id="pJkXwUEhGOAJhteFrj2J-67" value="" style="rounded=1;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="pJkXwUEhGOAJhteFrj2J-66">
           <mxGeometry width="390" height="170" as="geometry" />
