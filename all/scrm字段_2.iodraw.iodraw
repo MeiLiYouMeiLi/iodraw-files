@@ -1274,7 +1274,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pJkXwUEhGOAJhteFrj2J-29" value="" style="rounded=1;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-6616" y="-1830" width="390" height="210" as="geometry" />
+          <mxGeometry x="-6520" y="-1800" width="390" height="170" as="geometry" />
         </mxCell>
         <mxCell id="pJkXwUEhGOAJhteFrj2J-30" value="角色权限主表" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFCC;" vertex="1" parent="1">
           <mxGeometry x="-6387.5" y="-1770" width="125" height="20" as="geometry" />
