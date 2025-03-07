@@ -1684,7 +1684,7 @@
         <mxCell id="Qh6KIk2yQqFLPJrow_n9-70" value="" style="rounded=1;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="Qh6KIk2yQqFLPJrow_n9-69">
           <mxGeometry width="390" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="Qh6KIk2yQqFLPJrow_n9-71" value="销售机会阶段主表" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFCC;" vertex="1" parent="Qh6KIk2yQqFLPJrow_n9-69">
+        <mxCell id="Qh6KIk2yQqFLPJrow_n9-71" value="跟进记录设置" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFCC;" vertex="1" parent="Qh6KIk2yQqFLPJrow_n9-69">
           <mxGeometry x="132.5" y="30" width="125" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Qh6KIk2yQqFLPJrow_n9-72" value="销售机会阶段" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=#FFFFFF;" vertex="1" parent="Qh6KIk2yQqFLPJrow_n9-69">
